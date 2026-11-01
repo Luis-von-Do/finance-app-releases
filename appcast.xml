@@ -3,6 +3,14 @@
     <channel>
         <title>Finance App</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Sun, 01 Nov 2026 20:23:31 +0100</pubDate>
+            <sparkle:version>202611012022</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Luis-von-Do/finance-app-releases/releases/download/v1.1.0/FinanceApp-1.1.0.zip" length="1745782" type="application/octet-stream" sparkle:edSignature="XRqA08GVhrHs5rIWhl+yV/pT3KN8plQe3IzsbDimkedVPOR44orxSBWmUkg1Jy7PsO7dGwhPNw89nsxyUvz/Aw=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Sat, 31 Oct 2026 21:55:21 +0100</pubDate>
             <sparkle:version>202610312153</sparkle:version>
